@@ -8,7 +8,7 @@
 
 <h2>How to use StarterHTML 5</h2>
 
-<pre>git clone <a href="https://github.com/Zil-zambil/startertemplate5.git"></a></pre>
+<pre>git clone <a href="https://github.com/Zil-zambil/startertemplate5.git">https://github.com/Zil-zambil/startertemplate5.git</a></pre>
 
 <ol>
 	<li>Clone or <a href="https://github.com/Zil-zambil/startertemplate5/archive/master.zip">Download</a> <strong>OptimizedHTML 5</strong> from GitHub</li>
