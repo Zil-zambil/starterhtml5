@@ -102,7 +102,7 @@ gulp.task('rsync', function() {
 		recursive: true,
 		archive: true,
 		silent: false,
-		compress: true
+		compress: false
 	}))
 });
 
